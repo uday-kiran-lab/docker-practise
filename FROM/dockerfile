@@ -1,0 +1,1 @@
+FROM almalinux:9 # almalinux is similar OS of RHEL
